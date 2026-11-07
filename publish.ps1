@@ -21,6 +21,17 @@ Write-Host "Copying vault -> content/ ..." -ForegroundColor Cyan
 robocopy "$Vault" "$Content" /MIR /XD ".obsidian" "z_Templates" ".trash" /XF "Welcome.md" /NFL /NDL /NJH /NJS /NP | Out-Null
 if ($LASTEXITCODE -ge 8) { throw "robocopy failed with exit code $LASTEXITCODE" }
 
+# Notes that start with a blank line and then "---" show a horizontal rule in Obsidian,
+# but Quartz would read them as frontmatter. Add an empty frontmatter block so they
+# render the same way Obsidian shows them.
+$utf8 = New-Object System.Text.UTF8Encoding($false)
+Get-ChildItem -LiteralPath $Content -Recurse -File -Filter *.md | ForEach-Object {
+    $text = [IO.File]::ReadAllText($_.FullName, $utf8)
+    if ($text -match '^[ \t]*\r?\n\s*---' ) {
+        [IO.File]::WriteAllText($_.FullName, "---`n---`n" + $text, $utf8)
+    }
+}
+
 # Homepage lives outside the vault.
 Copy-Item -LiteralPath (Join-Path $Root "site\index.md") -Destination (Join-Path $Content "index.md") -Force
 
