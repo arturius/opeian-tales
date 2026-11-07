@@ -1,4 +1,5 @@
 ---
+password: "vol6"
 aliases: []
 created: 2026-11-07 12:58
 ---

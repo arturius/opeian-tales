@@ -1,4 +1,5 @@
 ---
+password: "vol6"
 aliases:
   - Gustav
 created: 2026-09-05 21:35

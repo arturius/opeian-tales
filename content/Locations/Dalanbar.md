@@ -1,3 +1,6 @@
+---
+password: "vol6"
+---
 Opeia is the lone surviving continent of Dalanbar following the disastrous clash between the deities. The remaining habitable land stretches across the scarred and fractured world, a jewel on the ocean’s crown, its standing nations carved from vastly different landscapes and legacies.
 
 ![Map of Dalanbar](https://opeiantales.blog/wp-content/themes/magnumopus/assets/png/worldmap.png)

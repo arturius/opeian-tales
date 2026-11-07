@@ -125,8 +125,9 @@ plugins:
     order: 45
   - source: "@quartz-community/encrypted-pages"
     enabled: true
+    order: 95
     options:
-      iterations: 600000
+      iterations: 10000
       passwordField: password
       unlistWhenEncrypted: false
       outputPath: static/encryptedContentIndex.json

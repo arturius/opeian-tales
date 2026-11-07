@@ -1,3 +1,6 @@
+---
+password: "vol6"
+---
 Group made in [[Peltragowe]] at the [[Pathstow#Even Star academy]]  by [[Professor Celeste Evenstar]]
 
 ## Our Group

@@ -1,4 +1,5 @@
 ---
+password: "vol6"
 aliases:
   - Kyseinam the Gentleheart
 created: 2026-10-17 17:13

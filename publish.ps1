@@ -3,9 +3,12 @@
 #   .\publish.ps1            copy the vault into content/, commit, push (GitHub Actions deploys)
 #   .\publish.ps1 -Preview   copy the vault and serve the site locally at http://localhost:8080
 #   .\publish.ps1 -NoPush    copy and commit, but don't push
+#
+# Every page is protected with $Password (a casual gate, not real security).
 
 param(
     [string]$Vault = "F:\Obsidian Vaults\Paid DND\Opeian Tales",
+    [string]$Password = "vol6",
     [switch]$Preview,
     [switch]$NoPush
 )
@@ -21,26 +24,31 @@ Write-Host "Copying vault -> content/ ..." -ForegroundColor Cyan
 # and the empty R note / Untitled base at the vault root.
 $skipFiles = @("Welcome.md", (Join-Path $Vault "R.md"), (Join-Path $Vault "Untitled.base"))
 robocopy "$Vault" "$Content" /MIR /XD ".obsidian" "z_Templates" ".trash" /XF $skipFiles /NFL /NDL /NJH /NJS /NP | Out-Null
+if ($LASTEXITCODE -ge 8) { throw "robocopy failed with exit code $LASTEXITCODE" }
 # robocopy /MIR keeps excluded files already in content/, so remove them explicitly.
 foreach ($f in @("R.md", "Untitled.base")) {
     $p = Join-Path $Content $f
     if (Test-Path -LiteralPath $p) { Remove-Item -LiteralPath $p -Force }
 }
-if ($LASTEXITCODE -ge 8) { throw "robocopy failed with exit code $LASTEXITCODE" }
-
-# Notes that start with a blank line and then "---" show a horizontal rule in Obsidian,
-# but Quartz would read them as frontmatter. Add an empty frontmatter block so they
-# render the same way Obsidian shows them.
-$utf8 = New-Object System.Text.UTF8Encoding($false)
-Get-ChildItem -LiteralPath $Content -Recurse -File -Filter *.md | ForEach-Object {
-    $text = [IO.File]::ReadAllText($_.FullName, $utf8)
-    if ($text -match '^[ \t]*\r?\n\s*---' ) {
-        [IO.File]::WriteAllText($_.FullName, "---`n---`n" + $text, $utf8)
-    }
-}
 
 # Homepage lives outside the vault.
 Copy-Item -LiteralPath (Join-Path $Root "site\index.md") -Destination (Join-Path $Content "index.md") -Force
+
+# Add the site password to every page's frontmatter (the encrypted-pages plugin encrypts
+# any page that has one). Notes without frontmatter get a new block; this also stops Quartz
+# from reading the session notes' leading "---" divider as frontmatter, so it renders as a
+# horizontal rule like in Obsidian.
+$utf8 = New-Object System.Text.UTF8Encoding($false)
+$pwLine = "password: `"$Password`""
+Get-ChildItem -LiteralPath $Content -Recurse -File -Filter *.md | ForEach-Object {
+    $text = [IO.File]::ReadAllText($_.FullName, $utf8)
+    if ($text -match '^---\r?\n') {
+        $text = $text -replace '^---\r?\n', "---`n$pwLine`n"
+    } else {
+        $text = "---`n$pwLine`n---`n" + $text
+    }
+    [IO.File]::WriteAllText($_.FullName, $text, $utf8)
+}
 
 Set-Location $Root
 

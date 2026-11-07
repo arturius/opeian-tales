@@ -1,4 +1,5 @@
 ---
+password: "vol6"
 aliases:
   - Key
 created: 2026-09-05 19:51

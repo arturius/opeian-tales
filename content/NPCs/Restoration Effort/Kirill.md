@@ -1,4 +1,5 @@
 ---
+password: "vol6"
 aliases:
   - Benny Hill Guy
 created: 2026-09-06 11:55

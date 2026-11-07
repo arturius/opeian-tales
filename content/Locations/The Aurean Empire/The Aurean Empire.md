@@ -1,3 +1,6 @@
+---
+password: "vol6"
+---
 The youngest nation of the continent, this crown jewel of arcane prowess seems to exist both as an enigmatic utopia and a tyrannical titan in the minds of Opeian folk.
 
 Fittingly, the most distinct feature of the territory is the faintly rose-tinted dome encapsulating the land. Known simply as the Veil, this shimmery barrier prevents any means of travel to or from the area without the knowledge and permission of the governing body.

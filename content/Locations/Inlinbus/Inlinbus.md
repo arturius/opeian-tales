@@ -1,3 +1,6 @@
+---
+password: "vol6"
+---
 Among Opeians, Inlinbus is universally known as nothing short of a deathtrap. It is a stark, jagged, inhospitable landscape with unforgiving heights and a disorienting union of snowy peaks doused with perpetual rivers of lava flowing through.
 
 Time was when dwarven clans occupied the Demilune Highlands, a mountain range named after its crescent shape. In the year 532 the dormant volcano Irearth erupted, and the resulting earthquake, smoke, and lava decimated the immediate populace. The surviving groups have since relocated, leaving the area deserted.

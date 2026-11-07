@@ -1,4 +1,5 @@
 ---
+password: "vol6"
 aliases:
   - Rebecca
 created: 2026-09-05 20:41

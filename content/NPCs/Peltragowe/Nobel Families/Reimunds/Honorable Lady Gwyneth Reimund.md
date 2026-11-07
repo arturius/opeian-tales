@@ -1,4 +1,5 @@
 ---
+password: "vol6"
 aliases:
   - Gwyneth
 created: 2026-09-05 20:45

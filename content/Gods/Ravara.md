@@ -1,4 +1,5 @@
 ---
+password: "vol6"
 aliases:
   - Ravara
   - The Forever Rose

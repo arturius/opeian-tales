@@ -1,4 +1,5 @@
 ---
+password: "vol6"
 aliases:
   - Khinera
   - The Clement,

@@ -1,3 +1,6 @@
+---
+password: "vol6"
+---
 Cities:
 
 The island of Tenedad has some truly unique assets that have garnered persistent attention over the ages. Once referred to as the “Feywild of Opeia,” the region exhibits a handful of physiographical anomalies presenting in strange and enticing landscapes with magic permeating the air.

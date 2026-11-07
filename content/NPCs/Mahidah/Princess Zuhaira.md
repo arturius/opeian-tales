@@ -1,4 +1,5 @@
 ---
+password: "vol6"
 aliases:
   - The pure
 created: 2026-10-24 12:37

@@ -1,4 +1,5 @@
 ---
+password: "vol6"
 aliases:
   - Mania
 created: 2026-09-26 12:53
