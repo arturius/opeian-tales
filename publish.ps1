@@ -17,8 +17,15 @@ $Content = Join-Path $Root "content"
 if (-not (Test-Path -LiteralPath $Vault)) { throw "Vault not found: $Vault" }
 
 Write-Host "Copying vault -> content/ ..." -ForegroundColor Cyan
-# Mirror the vault, skipping Obsidian config, templates, trash and the default Welcome note.
-robocopy "$Vault" "$Content" /MIR /XD ".obsidian" "z_Templates" ".trash" /XF "Welcome.md" /NFL /NDL /NJH /NJS /NP | Out-Null
+# Mirror the vault, skipping Obsidian config, templates, trash, the default Welcome note,
+# and the empty R note / Untitled base at the vault root.
+$skipFiles = @("Welcome.md", (Join-Path $Vault "R.md"), (Join-Path $Vault "Untitled.base"))
+robocopy "$Vault" "$Content" /MIR /XD ".obsidian" "z_Templates" ".trash" /XF $skipFiles /NFL /NDL /NJH /NJS /NP | Out-Null
+# robocopy /MIR keeps excluded files already in content/, so remove them explicitly.
+foreach ($f in @("R.md", "Untitled.base")) {
+    $p = Join-Path $Content $f
+    if (Test-Path -LiteralPath $p) { Remove-Item -LiteralPath $p -Force }
+}
 if ($LASTEXITCODE -ge 8) { throw "robocopy failed with exit code $LASTEXITCODE" }
 
 # Notes that start with a blank line and then "---" show a horizontal rule in Obsidian,

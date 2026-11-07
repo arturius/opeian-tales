@@ -30,7 +30,7 @@ Date of Session: 2026-10-31 13:45
 - Votes for the weather.
 - The Engraved, the citizen.
 - Liberty and Ada are the Iron Grip.
-- ~~Lost~~ Asked Saadia to leave his family's fate.
+- ~~Lost~~ Asked Saadia to learn his family's fate.
 - Radomir got friend zoned.
 - Sending from Saadia.
 - Korrack is going to give them shit.
