@@ -1,0 +1,179 @@
+{
+  "version": 1,
+  "kind": "calendar",
+  "id": "opeian",
+  "name": "Dalenbar",
+  "definition": {
+    "id": "opeian",
+    "name": "Dalenbar",
+    "eraLabel": "ERA",
+    "weekdays": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "months": [
+      {
+        "id": "month-1",
+        "name": "Yhara",
+        "days": 36,
+        "color": "#c6a24a"
+      },
+      {
+        "id": "month-2",
+        "name": "Dhomes",
+        "days": 36,
+        "color": "#7fa6c6"
+      },
+      {
+        "id": "month-3",
+        "name": "Ravara",
+        "days": 36,
+        "color": "#b86a7a"
+      },
+      {
+        "id": "month-4",
+        "name": "Ikhter",
+        "days": 36,
+        "color": "#a9c4d6"
+      },
+      {
+        "id": "month-5",
+        "name": "Zeune",
+        "days": 36,
+        "color": "#4f8f6a"
+      },
+      {
+        "id": "month-6",
+        "name": "Llum",
+        "days": 36,
+        "color": "#e7e1d6"
+      },
+      {
+        "id": "month-7",
+        "name": "Besros",
+        "days": 36,
+        "color": "#1f3556"
+      },
+      {
+        "id": "month-8",
+        "name": "Zuldes",
+        "days": 36,
+        "color": "#c96a32"
+      },
+      {
+        "id": "month-9",
+        "name": "Iddal",
+        "days": 36,
+        "color": "#3f7f7a"
+      },
+      {
+        "id": "month-10",
+        "name": "Khinera",
+        "days": 36,
+        "color": "#7a553a"
+      },
+      {
+        "id": "month-11",
+        "name": "Ovphy",
+        "days": 36,
+        "color": "#5b3a73"
+      },
+      {
+        "id": "month-12",
+        "name": "Penance",
+        "days": 36,
+        "color": "#2e2e2e"
+      }
+    ],
+    "leapMonths": [],
+    "leapDays": [],
+    "intercalaryDays": [],
+    "weatherProfile": {
+      "mode": "calendar",
+      "climateYearLength": 360,
+      "baseOffsetDays": 0,
+      "cycleReset": "intercalation-cycle"
+    },
+    "eras": [
+      {
+        "id": "era",
+        "name": "Era 1",
+        "shortName": "ERA",
+        "startYear": 0,
+        "startMonthIndex": 0,
+        "startDay": 1
+      }
+    ],
+    "moons": [],
+    "yearNames": [],
+    "namedWeeks": [],
+    "monthWeekdayMode": "continuous",
+    "startWeekdayIndex": 0,
+    "yearDisplay": {
+      "negativeYearsMode": "signed",
+      "largeYearFormat": "plain",
+      "eraYearMode": "absolute"
+    },
+    "seasons": [
+      {
+        "id": "spring",
+        "name": "Spring",
+        "startDay": 1,
+        "endDay": 90,
+        "color": "#a7d36d"
+      },
+      {
+        "id": "summer",
+        "name": "Summer",
+        "startDay": 91,
+        "endDay": 180,
+        "color": "#e2b35d"
+      },
+      {
+        "id": "autumn",
+        "name": "Autumn",
+        "startDay": 181,
+        "endDay": 270,
+        "color": "#d98859"
+      },
+      {
+        "id": "winter",
+        "name": "Winter",
+        "startDay": 271,
+        "endDay": 360,
+        "color": "#7fa8d8"
+      }
+    ],
+    "time": {
+      "enabled": true,
+      "hoursPerDay": 24,
+      "minutesPerHour": 60
+    }
+  },
+  "state": {
+    "activeView": "year",
+    "todayDate": {
+      "year": 1491,
+      "monthIndex": 6,
+      "day": 1
+    },
+    "cursorDate": {
+      "year": 1491,
+      "monthIndex": 6,
+      "day": 1
+    },
+    "showEraDescription": false
+  },
+  "linkedTagPackIds": [],
+  "linkedCalendarIds": [],
+  "linkedWeatherPackIds": [],
+  "weatherEnabled": false,
+  "frontmatterImportValues": [],
+  "defaultWeatherPackId": "general",
+  "autoGenerateLinkedWeatherReferences": false,
+  "markers": []
+}
