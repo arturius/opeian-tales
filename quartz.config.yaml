@@ -6,7 +6,7 @@ configuration:
   enablePopovers: true
   analytics: null
   locale: en-US
-  baseUrl: example.github.io/opeian-tales
+  baseUrl: arturius.github.io/opeian-tales
   ignorePatterns:
     - private
     - templates
