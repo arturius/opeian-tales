@@ -6,9 +6,9 @@ password: "vol6"
 Date of Session:  2026-03-28 1:00 PM
 
 ---
-Secret trials, pins, screwing pin, bell pins (elven couple). Key hovering over various groups with Group.
+Secret trials, pins, screwing pin, bell pins (elven couple). [[Ah'akiala|Key]] hovering over various groups with Group.
 
-King is old, keep is being run by the Godfreys and are pseudo-Regents. His children travel the Realms. Religion is a big deal.
+King is old, keep is being run by the [[Godfrays|Godfreys]] and are pseudo-Regents. His children travel the Realms. Religion is a big deal.
 
 Abyssals & [[Tenedite]]— not a lot of link between the 2, is a catalyst/material/drug. A lot of [[Tenedite]] experiments as entenstion of witchcraft, oral history not written down. Can do crazy things including incorporating it into the body. Also research it (non-body). Aberrant creatures come from the Far Realm, Lovecraftian horror. Beholders — paranoia & megalomania. Beholder — Horn of Orcus. Travel between the plains. Abyssal — Demons. Infernal — Devil.
 

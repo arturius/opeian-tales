@@ -15,3 +15,6 @@ Home: [[Pathstow]]
 ---
 Lore:
 
+#### Summary
+- Water genasi tavern owner of the [[Pathstow#Ye' old Black Cat.|Black Cat]] and a fan of [[Radomir Trueblood|Radomir]]; asked him to perform there (S25)
+- Offered a 515 GP investment on a gentleman's agreement; the party redirect their letters to her inn (S25)

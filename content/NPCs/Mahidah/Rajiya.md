@@ -15,3 +15,5 @@ Home: ??
 ---
 Lore:
 
+#### Summary
+- Seen at the gala ("Buzz is Rajiya") (S31)

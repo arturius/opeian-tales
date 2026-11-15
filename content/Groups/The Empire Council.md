@@ -15,3 +15,11 @@ Members
 
 Other
 [[Andes Eudghast]]: Quatermaster  
+
+---
+Lore:
+
+#### Summary
+- Met the party in the courtyard at [[Rahalo]]: tiefling [[Liberty]], dragonborn [[Ludovic Zylmoira]], dwarf [[Loghim Earthbrand]], aged soldier [[Calista Leighlin]], half-elf [[Ada Rienstra]], elven siblings [[Avvaya Rahalo]] and [[Iriiki Maoki Rahalo]], and half-elf [[Sadiha Imaia Rahalo]] (S30)
+- Very measured, waiting on something while being stalled by [[Andes Eudghast]] (S30)
+- Each member rules one of the seven Echelons (S35)

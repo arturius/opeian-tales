@@ -1,6 +1,7 @@
 ---
 password: "vol6"
-aliases: []
+aliases:
+  - Sadiha
 created: 2026-10-17 12:07
 ---
 ---
@@ -15,3 +16,10 @@ Home: ??
 ---
 Lore:
 Master Diviner
+
+#### Summary
+- Half-elf, around 20 [?] (S30)
+- Wide-eyed and talked about her senses [?] (S32); bookish (S32)
+- Was asked to learn a party member's family's fate and sent a Sending (S33)
+- Notably not mentioned among [[The Empress|the Empress]]'s children (S35)
+- In charge of the Second Echelon (Attea), called the Heart, in [[Laumanu]] (S35)

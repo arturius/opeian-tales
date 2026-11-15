@@ -18,3 +18,5 @@ Lore:
 Princess of [[Mahidah]]
 Is the new oracle for [[Mahidah]] called the pure, is blind and mute and will eventually be able to see prophesy's of the future 
 
+#### Summary
+- "The Pure": only one exists at a time, always born mute and blind; rides atop the centaur [[It'idal]]; priest of [[Mahidah]]'s oracles [?] (S31)

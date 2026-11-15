@@ -1,6 +1,7 @@
 ---
 password: "vol6"
-aliases: []
+aliases:
+  - Ada
 created: 2026-10-17 11:58
 ---
 ---
@@ -15,3 +16,9 @@ Home: ??
 ---
 Lore:
 Master Evocator
+
+#### Summary
+- Half-elven Master Evoker on [[The Empire Council]] (S30)
+- Annoyed by the Empress's late arrival (S30)
+- Ada and [[Liberty]] are the Iron Grip (S33)
+- Domain: [[Takili]], the Fifth Echelon (Lempea) (S35)

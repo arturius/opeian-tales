@@ -15,3 +15,5 @@ Home: ??
 ---
 Lore:
 
+#### Summary
+- Probably the "Sirreb [?]", an Air Genasi, noted at the gala (S31)

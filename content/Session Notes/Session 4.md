@@ -6,11 +6,11 @@ password: "vol6"
 Date of Session: 2026-03-14 1:45 PM
 
 ---
-Had tests, greatest fear. Barley passed, all but Jorge investigated trinket w/ Faint energy.
+Had tests, greatest fear. Barley passed, all but [[Jörg|Jorge]] investigated trinket w/ Faint energy.
 
-Got letter from Gibbs from [[Lady Rebekah Godfray]] — concerns on young man w/ demons. She proceeds with husband that boy was insane, and is going to an asylum outside of the city w/ priests who can help him.
+Got letter from [[Gibbs]] from [[Lady Rebekah Godfray]] — concerns on young man w/ demons. She proceeds with husband that boy was insane, and is going to an asylum outside of the city w/ priests who can help him.
 
-[[Arey Hallows]] is the Asylum — property of the Godfreys.
+[[Arey Hallows]] is the Asylum — property of the [[Godfrays|Godfreys]].
 
 [[Sigil Found on bandit|Sygil]] — is similar to devil seals, known symbols of devils. Similar seals on a mid-tier devil in the 9 Hells specifically.
 

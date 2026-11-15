@@ -20,3 +20,24 @@ With the exception of private businesses, most types of labor are commissioned a
 The Empire rests in the north-eastern section of the continent, hugged by mountain ranges along its borders. With an overall rolling topography, most of the region consists of upland terrain interspersed with hills and valleys. Summers are long, hot and humid with light showers and peak seasonal rainfall in the hottest months. Winters are generally mild and dry.
 
 Religious practices aren’t quite as focal in the lives of Aureans as elsewhere; the Empress herself is straightforward about her abstain from worship. Dedicated temples are limited to the capital city, while modest shrines can be found around smaller settlements.
+
+---
+Lore:
+
+#### Summary
+- Enclosed by the [[Aurean Vale]], which seems to control many of the Empire's systems (S2)
+- Sits on an elevated platform above the rest of the Confederation (S30)
+- Visitors get a temporary access-pass marker with tracking via magic ink, activated by an Aurean ritual (S30)
+- Travel inside is by airship with a ring of Vale-like magic (S30)
+- Colour: pink (S31)
+- Has screened and approved 300 new suitors (settlers), the first offering of its kind; the [[Restoration Effort]] oversees the process (S26); the settlers arrive a week after the party sets out for Escudons [?] (S35)
+- Has its own separately trained agents (S27)
+- [[Seameet Bay]] is the only area not covered by the Vale; the Petravons want to take it (S26)
+- Only temple of [[Ovphy]] is a small shrine at [[Rahalo]] (S24)
+- Studies natural power sources: planar pockets, ley lines, "magic wires"; [[Tenedite]] mines in quadrants, one north of Rahalo [?] (S31)
+- Mandatory Engraving ritual; anyone rejected is expelled along with any dead kin (S32)
+- Citizens are the Engraved and get jewellery that acts as a universal pass (S33, S34)
+- People vote for the weather (S33); everyone appears very happy (S34)
+- A chamber of security with coloured beacons as slices of regions and child-proofed regions (S30)
+- Divided into seven Echelons, each the domain of a council member (S35)
+- Created by [[The Empress]] after her family was murdered and she was chased out (S34)

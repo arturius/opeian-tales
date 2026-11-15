@@ -18,20 +18,20 @@ Administrator by [[Professor Celeste Evenstar]] (Created the artificer gear) . Q
 
 [[Jörg]] learns of a sickness in the wild — talk of [[Lady Rebekah Godfray]] making an Event at the temple.
 
-[[Aurean Vale]], not only contained within it — unique in fact its magic is impossible to understand. Jewelry linked to the Vale, soul attunement, 1-hour after removal becomes inactive. Veil seems to control a lot of the systems of the Empire. Adjust preference to the individual.
+[[Aurean Vale]], not only contained within it — unique in fact its magic is impossible to understand. Jewelry linked to the [[Aurean Vale|Vale]], soul attunement, 1-hour after removal becomes inactive. [[Aurean Vale|Veil]] seems to control a lot of the systems of the [[The Aurean Empire|Empire]]. Adjust preference to the individual.
 
-The Empress made a declaration; used to be a champion of [[Ovphy]], was denounced. Her history has been redacted.
+[[The Empress]] made a declaration; used to be a champion of [[Ovphy]], was denounced. Her history has been redacted.
 
-[[Edna]] the Healer: Has a junky follower (Zackery ?). Has scars/marks on the nape and faint magical aura of enchantment. Taken by the guards to Pathstow Keep .
+[[Edna]] the Healer: Has a junky follower (Zackery ?). Has scars/marks on the nape and faint magical aura of enchantment. Taken by the guards to [[Pathstow#Pathstow Keep|Pathstow Keep]] .
 
 [[Major Lazarus Godfray]] got promoted, Head of the Guard.
 
-Lots of Godfreys, a lot marked w/ great warriors marking in archive.
+Lots of [[Godfrays|Godfreys]], a lot marked w/ great warriors marking in archive.
 
-[[Lady Rebekah Godfray|Rebecca]] married [[Major Lazarus Godfray|Lazarus]], have an 11 yr old. Major is the Keep Master.
+[[Lady Rebekah Godfray|Rebecca]] married [[Major Lazarus Godfray|Lazarus]], have an 11 yr old. [[Major Lazarus Godfray|Major]] is the Keep Master.
 
-Rebecca was at a convent of [[Llum]] training to be a nun but was healed by [[Besros]] converting them to that faith.
+[[Lady Rebekah Godfray|Rebecca]] was at a convent of [[Llum]] training to be a nun but was healed by [[Besros]] converting them to that faith.
 
-Zephyr ran away and was captured by the Guards and is being taken to [[Pathstow#Pathstow Keep|Pathstow Keep]]. Party has attraction with noble half elf.
+[[Zephyr]] ran away and was captured by the Guards and is being taken to [[Pathstow#Pathstow Keep|Pathstow Keep]]. Party has attraction with noble half elf.
 
 [[Mirage]] was handing out good berries in the slums to children. 

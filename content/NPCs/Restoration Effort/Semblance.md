@@ -15,3 +15,5 @@ Home: ??
 ---
 Lore:
 
+#### Summary
+- Noted at the gala as a new agent, E/A [?] (S31)

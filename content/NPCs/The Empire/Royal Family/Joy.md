@@ -15,3 +15,5 @@ Home: ??
 ---
 Lore:
 
+#### Summary
+- One of [[The Empress|the Empress]]'s consorts who arrived with her (S30)

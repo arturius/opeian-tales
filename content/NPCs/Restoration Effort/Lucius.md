@@ -15,3 +15,6 @@ Home: [[Tenedad]] ?
 ---
 Lore:
 
+#### Summary
+- One of those falling asleep [?] (S9)
+- Was with [[Mason]] at the start of the private party (S22)

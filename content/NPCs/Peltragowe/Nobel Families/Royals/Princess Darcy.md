@@ -15,3 +15,5 @@ Home: ??
 ---
 Lore:
 
+#### Summary
+- Princess of [[Peltragowe]]; attended the gala in [[The Aurean Empire|the Empire]] (S31)

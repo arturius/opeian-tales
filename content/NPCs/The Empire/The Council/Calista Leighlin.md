@@ -1,6 +1,7 @@
 ---
 password: "vol6"
-aliases: []
+aliases:
+  - Calista
 created: 2026-10-17 12:08
 ---
 ---
@@ -15,3 +16,9 @@ Home: ??
 ---
 Lore:
 Commander of the Empire
+
+#### Summary
+- Six-foot, aged soldier on [[The Empire Council]] (S30)
+- The party's contact for major Imperial concerns (S30)
+- Possibly the Commander who gave off evocation and had a brief exchange with [[The Empress]] [?] (S30)
+- Used to have a family (S34); may be immortal [?] (S34)

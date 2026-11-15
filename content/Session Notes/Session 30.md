@@ -7,22 +7,22 @@ Date of Session: 2026-10-03 12:21
 
 ---
 
-- Approaching the [[Aurean Vale]] today on the Aurean Berm
-- Empire sits on an elevated platform compared to the rest of the Confederation.
+- Approaching the [[Aurean Vale]] today on the [[Aurean Berm]]
+- [[The Aurean Empire|Empire]] sits on an elevated platform compared to the rest of the Confederation.
 - Detect magic pops off with pure magic energy. No discernable school.
-- Kiril is a bit jumpy around his suitcase.
-- Godfrey's car has a desecrated presance.
+- [[Kirill|Kiril]] is a bit jumpy around his suitcase.
+- [[Godfrays|Godfrey]]'s car has a desecrated presance.
 - [[Lady Rebekah Godfray]] has desecrated on her
-- Dismay and confusion w/ Rebeca talking w/ the Aureans.
+- Dismay and confusion w/ [[Lady Rebekah Godfray|Rebeca]] talking w/ the Aureans.
 - Everyone given a marker that is a temporary access pass that has a tracking ability used via magic ink.
 - Aureans did a Ritual that activates the tattoo.
 - "Pulverised" by the barrier. Everything became more intense and had a pleasant smell to it.
 - Led to airships w/ a ring that has the same "similar" magic to the barrier. Folding staircase.
 - [[Andes Eudghast]] - Quartermaster of the Aurien council. Looking w/ the slingshot.
-- Quartermaster basically in charge of the traveling of goods (and people) exporting and importing to and from the Empire.
+- Quartermaster basically in charge of the traveling of goods (and people) exporting and importing to and from the [[The Aurean Empire|Empire]].
 - [[Rahalo]] is a city of marble w/ ultra clean streets.
 - Gawked at by the locals, 80% friendly. 
--  [[The Empire Council]] members standing in the courtyard w/ 30ft statue of the Empress called the Beloved.
+-  [[The Empire Council]] members standing in the courtyard w/ 30ft statue of the [[The Empress|Empress]] called the Beloved.
     - Tiefling - [[Liberty]]
     - Dragonborn - Gem [[Ludovic Zylmoira]]
     - Dwarf - [[Loghim Earthbrand]]
@@ -34,17 +34,17 @@ Date of Session: 2026-10-03 12:21
 - The council are very measured but there is a lingering moment. Waiting on something. being stalled by [[Andes Eudghast]].
 - Commander giving off evocation
 - Can magic dig for something
-- After 20 min 4 figures come out. Empress and consorts.
+- After 20 min 4 figures come out. [[The Empress|Empress]] and consorts.
     - Water Genasi - [[Sofia Behata]]
     - Tiefling - [[Quardara]]
     - [[Joy]]
-- Brief exchange between Commander + Empress.
-- Was delayed because they had playtime? Liberty & Ada annoyed
+- Brief exchange between Commander + [[The Empress|Empress]].
+- Was delayed because they had playtime? [[Liberty]] & [[Ada Rienstra|Ada]] annoyed
 - Memorial to be planned. Appointments made for formal wear.
 - Gala tomorrow w/ 1 week down time.
-- Talk w/ Andes for most problems. [[Calista Leighlin]] for major Imperial concerns.
+- Talk w/ [[Andes Eudghast|Andes]] for most problems. [[Calista Leighlin]] for major Imperial concerns.
 - Chamber of security
 - Colored beacons are slices of Regions
 - Child proofed regions
-- Got Key a chocolate cake.
+- Got [[Ah'akiala|Key]] a chocolate cake.
 

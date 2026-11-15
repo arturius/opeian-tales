@@ -15,3 +15,5 @@ Home: ??
 ---
 Lore:
 
+#### Summary
+- Possibly the half-orc "Lass" [?], daughter of the large full orc appointed leader of the tribe (S33)

@@ -15,3 +15,6 @@ Home: ??
 ---
 Lore:
 Empress Consort
+
+#### Summary
+- Tiefling; one of [[The Empress|the Empress]]'s consorts who arrived with her (S30)

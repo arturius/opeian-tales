@@ -16,3 +16,6 @@ Home: [[Mahidah]]
 Lore:
 
 was part of the knights of something, joined to do his nation proud
+
+#### Summary
+- Fond of [[Kerne]]; rode in a car with [[Radomir Trueblood|Radomir]] and Kerne (S27)

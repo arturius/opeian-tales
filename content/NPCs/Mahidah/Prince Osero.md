@@ -16,3 +16,6 @@ Home: ??
 Lore:
 Brother to [[Princess Zuhaira]]
 Engaged to [[Jamaima]]
+
+#### Summary
+- Prince of [[Mahidah]] at the gala; fiancée [[Jamaima]], uncle [[Emir Yaazkar]] (S31)

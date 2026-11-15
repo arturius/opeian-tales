@@ -16,3 +16,6 @@ Home: ??
 Lore:
 
 Child of [[Lady Rebekah Godfray|Rebecca]] and [[Major Lazarus Godfray|Lazarus]]
+
+#### Summary
+- The 11-year-old child of [[Lady Rebekah Godfray|Rebecca]] and [[Major Lazarus Godfray|Lazarus]] (S2)

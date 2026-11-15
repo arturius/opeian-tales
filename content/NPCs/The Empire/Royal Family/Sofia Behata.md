@@ -15,3 +15,6 @@ Home: ??
 ---
 Lore: Empress Consort
 Was a Opera singer in Mahidia about 1 yrs ago 
+
+#### Summary
+- Water genasi; one of [[The Empress|the Empress]]'s consorts who arrived with her (S30)

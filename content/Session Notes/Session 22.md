@@ -16,11 +16,11 @@ Date of Session:  2026-08-01 12:00 PM
 - [[Wesley]]  and [[Reigna]]  talking w/ an infernal, conversation about a delivery.
 - [[Reigna]]  has a large outfit collection, and expensive jewelry and letters. They are not from [[Pathstow]]. Found secret compartment of closet holding [[Reigna's Diary]]
 - Stole the diary.
-- [[Wulfric]] frolicked w/ Paige.
+- [[Wulfric]] frolicked w/ [[Paige]].
 - [[Ah'akiala|Key]] has traveled for years.
 - [[Ah'akiala|Key]] has a bunch of magic items in her room.
 - [[Ah'akiala|Key]] also is friends w/ a Fairy.
 - [[Wulfric]] f has a "dog's ass" tattoo.
 - [[Radomir Trueblood|Radomir]] and [[Wulfric]] f sleep [together?].
-- Journal is addressed to Eve. The way the journal was written is very cagey (Evenstar?) — meeting up w/ a friend ([[Lady Rebekah Godfray]]), sharing the same sentiment.
+- Journal is addressed to Eve. The way the journal was written is very cagey ([[Evenstars|Evenstar]]?) — meeting up w/ a friend ([[Lady Rebekah Godfray]]), sharing the same sentiment.
 

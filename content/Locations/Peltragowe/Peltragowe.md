@@ -20,3 +20,11 @@ Religion is customary among the populace and most cities have a dedicated place 
 Peltragowe lies in the north-central region of Opeia, flanked by the [[Tressnal Mountians]] and the [[Laval Slopes]]. The capital is located in the southwestern quadrant. The kingdom has mixed terrain of hills, plains and an overwhelming percentage of forestland. There are four distinct seasons with warm and often humid summers and freezing cold winters. Precipitation is usually distributed throughout the year but dry seasons may occur.
 
 The number of artificers has seen a steep increase in the past decades: due to the shortage of experienced mages, the remaining arcane schools have pivoted from traditional training and opened their doors to inquisitive minds looking to empower their craft with a touch of magic.
+
+---
+Lore:
+
+#### Summary
+- The king is old; the [[Godfrays]] run the keep as pseudo-regents while his children travel the realms (S6)
+- Religion is a big deal (S6)
+- Colour: blue (S31); [[Princess Darcy]] is its princess (S31)

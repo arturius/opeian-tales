@@ -15,3 +15,5 @@ Home: ??
 ---
 Lore:
 
+#### Summary
+- Lord Akar comes from a family of paladins linked to [[Little Root]], a semi-official order of paladin spies (S33)

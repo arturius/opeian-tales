@@ -16,3 +16,5 @@ Home: ??
 Lore:
 Hand maiden/ body guard to [[Princess Zuhaira]]
 
+#### Summary
+- The centaur who carries [[Princess Zuhaira]] (S31)

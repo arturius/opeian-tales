@@ -15,9 +15,9 @@ Some in line w/ propaganda/rumours. Annexing [[Mahidah]] — the sickness, sight
 
 Elderly man spooked by sparrow nightmare, child got spooked and went mute, panicked scream.
 
-[[Pathstow#Tam and Heart|Tam and Heart]]  — bread. Pouches w/ Illum, missing soldiers.
+[[Pathstow#Tam and Heart|Tam and Heart]]  — bread. Pouches w/ [[Llum|Illum]], missing soldiers.
 
-Gave grain to the poor. Went to the brothel, got blacked out drunk. When returned, got a pin from the Restoration Effort.
+Gave grain to the poor. Went to the brothel, got blacked out drunk. When returned, got a pin from the [[Restoration Effort]].
 
 Letter had transformation and abdication on it.
 

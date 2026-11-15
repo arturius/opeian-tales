@@ -15,3 +15,6 @@ Home: ??
 Lore:
 
 Handles most of the [[Evenstars]]' business 
+
+#### Summary
+- More linked to the family business (S14)

@@ -1,6 +1,7 @@
 ---
 password: "vol6"
-aliases: []
+aliases:
+  - Loghim
 created: 2026-10-17 12:05
 ---
 ---
@@ -15,3 +16,7 @@ Home: ??
 ---
 Lore:
 Master Abjurer
+
+#### Summary
+- Dwarf member of [[The Empire Council]] (S30)
+- Domain: [[Rahalo]], the First Echelon (Minya) (S35)

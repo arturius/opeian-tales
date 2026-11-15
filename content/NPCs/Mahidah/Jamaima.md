@@ -15,3 +15,6 @@ Home: ??
 ---
 Lore:
 fiance to [[Prince Osero]]
+
+#### Summary
+- Fiancée of [[Prince Osero]] (S31)

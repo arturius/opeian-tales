@@ -16,3 +16,10 @@ In the arid south of Opeia lies Mahidah, a proud desert nation of hospitality. T
 Across the continent in a northwestern direction, the crimson island of Tenedad bursts with flora and fauna just as enthralling and deadly as its fanged invaders.
 
 Sitting below in volcanic haze, the Demilune Haunt and Inlinbus are unforgiving, blackened lands of grief and ash.
+
+---
+Lore:
+
+#### Summary
+- Tomes in [[Pathstow]]'s temple of [[Ovphy]] hold pre-Shattering accounts (S2)
+- Lost continents: gargantuan avatar forms fighting stepped on the other continents (S9)

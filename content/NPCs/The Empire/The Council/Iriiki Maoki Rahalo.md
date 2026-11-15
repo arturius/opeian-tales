@@ -1,6 +1,7 @@
 ---
 password: "vol6"
-aliases: []
+aliases:
+  - Iriiki
 created: 2026-10-17 12:02
 ---
 ---
@@ -15,3 +16,7 @@ Home: ??
 ---
 Lore:
 Master Transmuter
+
+#### Summary
+- Long-eared elf with fey heritage; sibling of [[Avvaya Rahalo|Avvaya]] (S30)
+- Domain: [[Azmaryn]], the Third Echelon (Neldea) (S35)

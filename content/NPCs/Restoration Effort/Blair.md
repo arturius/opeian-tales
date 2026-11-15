@@ -15,3 +15,7 @@ Home: ??
 ---
 Lore: Dead
 
+#### Summary
+- One of those falling asleep [?] (S9)
+- Her group lost to the party in the gauntlet (S19)
+- Killed by the cambion during the caravan attack (S28)

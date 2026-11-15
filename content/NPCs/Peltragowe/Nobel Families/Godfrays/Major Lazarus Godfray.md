@@ -16,3 +16,8 @@ Home: ??
 ---
 Lore:
 Keep Master of Pathstow keep
+
+#### Summary
+- Promoted to Head of the Guard; Keep Master of [[Pathstow#Pathstow Keep|Pathstow Keep]] (S2)
+- Married to [[Lady Rebekah Godfray|Rebecca]]; they have an 11-year-old (S2)
+- Sided with his wife in declaring the "demon" boy insane and sending him to the asylum (S4)

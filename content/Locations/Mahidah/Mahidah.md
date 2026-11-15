@@ -18,3 +18,12 @@ Mahidah is an old nation with a relatively peaceful history. The remote location
 Though nomads can be found in considerable numbers and evenly spread, most of the population resides on the main island where a handful of oases make way for vegetation. For three months each year, a very special weather phenomenon happens here which transforms the usually arid environment into a spectacular rainforest. Seemingly overnight, barren slopes are turned into emerald green hills, lakes and waterfalls sprout forth, and the temperature drops to a cool mid-range.
 
 The people of the kingdom are known for their courtesy and hospitality, attributing these qualities to a strong sense of community forged by the necessity to survive. Revelry isn’t regarded as a simple pastime; Mahidahian celebrations are centered around the gratitude for life and all that makes it worth living.
+
+---
+Lore:
+
+#### Summary
+- Rumours of the Empire annexing Mahidah (S5)
+- Formal suits are made for [[The Empress]], the council and Mahidah's royals (S31)
+- Colour: yellow (S31)
+- Its oracle, "the Pure" ([[Princess Zuhaira]]), is always born mute and blind (S31)

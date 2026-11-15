@@ -17,3 +17,5 @@ Lore:
 Uncle to [[Jamaima]]
 
 
+#### Summary
+- Uncle of [[Prince Osero]] (S31)

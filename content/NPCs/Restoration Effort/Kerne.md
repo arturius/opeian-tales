@@ -15,3 +15,7 @@ Home: [[Mahidah]]
 ---
 Lore:
 
+#### Summary
+- [[Kit]] is fond of her (S27)
+- Fought spine devils and the [[Whip Lady]] in the southern group during the caravan attack (S28)
+- Talked with the party about the devils and the boxes (S29)

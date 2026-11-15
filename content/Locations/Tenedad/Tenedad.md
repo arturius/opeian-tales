@@ -22,3 +22,14 @@ The crystal can be purchased from approved traders throughout the continent and 
 Located northwest of the mainland, Tenedad experiences hot summers and cold winters, with sharp temperature shifts between day and night. The terrain consists of dunes, rolling plains, and mountainous regions.
 
 Rainfall varies significantly, with the northwest receiving the most precipitation. The Carmis Valley, famed for its wine, is among the driest regions on the island.
+
+---
+Lore:
+
+#### Summary
+- Colour: red (S31)
+- [[Radomir Trueblood|Radomir]] left at 12 and was told not to return by the vampire ladies (S32)
+- [[Mirage]] carries a bracelet marking a Tenedad clan (S31)
+- Has an underground labyrinth reaching from the lakes in the centre (S34)
+- The vampire ladies [[Ruksana]] and [[Elektra]] may have been psychological warfare against the Tenedadians (S34)
+- "Cocaine squirrels" [?]: people draw their blood to get high (S34)

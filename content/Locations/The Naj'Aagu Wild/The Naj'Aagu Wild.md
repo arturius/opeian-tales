@@ -19,3 +19,12 @@ The Wild has a warm climate with a wet and dry season. The average temperature i
 Settlements are few and far between, though they’re considered to be a shared resource and on occasion multiple tribes would jointly occupy these sites together.
 
 Many natives feel that religion is a necessary component for spiritual fulfillment. Rather than viewing themselves as subjects, the people of the Wild believe that their souls are bonded with the forces and virtues the deities embody.
+
+---
+Lore:
+
+#### Summary
+- A sickness is reported in the Wild (S2)
+- A spreading sickness [?], unknown how it's caught: mild fever, then fevers, hallucination and rotting from the outside in; spreading towards the north (S33)
+- Colour: green (S31)
+- [[Kyseinam]] the Gentleheart is a guardian of the Wild (S32)

@@ -14,3 +14,5 @@ Home: ??
 ---
 Lore:
 
+#### Summary
+- Joined the group alongside [[Wulfric]] (S15)

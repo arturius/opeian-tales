@@ -15,3 +15,6 @@ Home: [[The Naj'Aagu Wild]]??
 ---
 Lore:
 
+#### Summary
+- May have received a gift [?] (S27)
+- Has infernal traces on him (S27)

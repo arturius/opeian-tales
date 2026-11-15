@@ -8,7 +8,7 @@ Date of Session:  2026-05-02 12:45 PM
 ---
 Syllabus of how this works — we try to remember it.
 
-Long robes of royal blue with lines coming down, and Academy Emblem.
+Long robes of royal blue with lines coming down, and [[Pathstow#Even Star academy|Academy]] Emblem.
 
 Met Teresa to embroider the unmarked robes.
 
